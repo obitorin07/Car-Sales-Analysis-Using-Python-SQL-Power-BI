@@ -39,3 +39,7 @@ The dataset includes the following fields:
 ## Thank You
 
 Feel free to explore the project and reach out if you have any questions or feedback.
+
+## DASHBOARD
+![CAR_SALES](https://github.com/user-attachments/assets/a60efe2f-ed62-4f9c-9612-643b61b1e63c)
+
